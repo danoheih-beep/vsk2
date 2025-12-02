@@ -1,4 +1,4 @@
-ackage com.travel.travelplanner.mapper;
+package com.travel.travelplanner.mapper;
 
 import com.travel.travelplanner.dto.HotelDto;
 import com.travel.travelplanner.entity.City;
